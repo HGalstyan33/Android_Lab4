@@ -17,6 +17,6 @@
 
 ## Optional
 - [X] Extra styling is added!
-- [ ] User sees a countdown timer for each question
+- [X] User sees a countdown timer for each question
 - [ ] User sees a 'card flip' animation when the card is tapped
 - [X] User sees a celebration animation with confetti when they answer a question correctly
